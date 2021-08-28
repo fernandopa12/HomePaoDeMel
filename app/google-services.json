@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "98757587224",
+    "firebase_url": "https://projetopaodemel.firebaseio.com",
+    "project_id": "projetopaodemel",
+    "storage_bucket": "projetopaodemel.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:98757587224:android:d5bf1e8567962e09622e6d",
+        "android_client_info": {
+          "package_name": "firebaseapp.cursoandroid.homepaodemel"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "98757587224-jjsa9t8k256m822cof0o81273jbd0dp0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "firebaseapp.cursoandroid.homepaodemel",
+            "certificate_hash": "1a8ad3d4c5100aeaa9a0c708dc0498b95cfa31d6"
+          }
+        },
+        {
+          "client_id": "98757587224-555a2kfjvvhu0s37o9dlp0b18amj4ker.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAwV_6lluUDCJ90PpkLHWkk_dic1mvzboA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "98757587224-555a2kfjvvhu0s37o9dlp0b18amj4ker.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
